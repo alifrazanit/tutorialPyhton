@@ -6,5 +6,6 @@ tahunsekarang = int(tahunsekarang)
 
 
 umur = tahunsekarang - year
-kalimat = "kamu sekarang berumur " + str(umur) + " Tahun"
+kalimat = f"kamu sekarang berumur {umur} Tahun"
+# kalimat = f"kamu sekarang berumur " + str(umur) + " Tahun"
 print(kalimat)
