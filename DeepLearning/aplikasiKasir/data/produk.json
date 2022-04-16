@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "kode":"PROD001",
+            "namaProduk":"Teh Botol",
+            "harga":8000,
+            "stok":10,
+            "jenisProduk":"Produk Minuman"
+        },
+        {
+            "kode":"PROD002",
+            "namaProduk":"Teh Kotak",
+            "harga":5000,
+            "stok":10,
+            "jenisProduk":"Produk Minuman"
+        },
+        {
+            "kode":"PROD003",
+            "namaProduk":"Susu Beruang",
+            "harga":10000,
+            "stok":10,
+            "jenisProduk":"Produk Minuman"
+        },
+        {
+            "kode":"PROD004",
+            "namaProduk":"Oreo",
+            "harga":7000,
+            "stok":10,
+            "jenisProduk":"Makanan Ringan"
+        }
+    ]
+}

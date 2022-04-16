@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "name": "Alif Razan Saputra",
+            "nik": "EMP001",
+            "username": "al",
+            "password": "123"
+        },
+        {
+            "name": "Ryan App",
+            "nik": "EMP002",
+            "username": "ryan",
+            "password": "12345"
+        }
+    ]
+}
